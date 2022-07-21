@@ -2,9 +2,7 @@
 
 <p>My CV can be found <a href="https://github.com/sambutton12/CV">here</a>.
 
-<p>I am always excited to deepen my knowledge of existing langauges and love learning new ones. Next up Python!</p>
-
-<p>I approach all my projects using TDD.</p>
+<p>I approach all my projects using TDD and I love to pair programme to write clean, reuseable code.</p>
 
 <p>I am currently searching for my first software developer role.</p>
 
@@ -13,6 +11,7 @@
 - 🔄 I’m a career switcher who used to work in Sports Analysis.
 - 🌱 I am a graduate of Makers Academy (April '22 cohort).
 - ✅ I consistently write code using Test Driven Development.
+- 
 
 #### Languages and Tools:
 
