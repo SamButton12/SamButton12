@@ -1,2 +1,2 @@
-<img alt="Sam Button Readme" src="SamButton12/header.png"> </img>
+<img alt="Sam Button Readme" src="/header.png"> </img>
 
