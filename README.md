@@ -1,17 +1,18 @@
 <img alt="Sam Button Readme" src="/header.png"> </img>
 
-<p>My CV can be found <a href="https://github.com/sambutton12/CV">here</a>.
+<p>I’m a career switcher who used to work in Sports Analysis.</p>
+
+<p>I am a graduate of Makers Academy (April '22 cohort).</p>
 
 <p>I approach all my projects using TDD and I love to pair programme to write clean, reuseable code.</p>
 
 <p>I am currently searching for my first software developer role.</p>
 
+<p>I love anything and everything sport.</p>
+
+<p>My CV can be found <a href="https://github.com/sambutton12/CV">here</a>.
+
 <p>Please get in touch with me via <a href="">Linked in</a>.
-  
-- 🔄 I’m a career switcher who used to work in Sports Analysis.
-- 🌱 I am a graduate of Makers Academy (April '22 cohort).
-- ✅ I consistently write code using Test Driven Development.
-- 
 
 #### Languages and Tools:
 
