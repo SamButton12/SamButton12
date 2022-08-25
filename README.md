@@ -4,7 +4,7 @@
 
 <p>I am a graduate of Makers Academy (April '22 cohort).</p>
 
-<p>I approach all my projects using TDD and I love to pair programme to write clean, reuseable code.</p>
+<p>I approach all my projects using TDD and I love to pair programme to write clean, reusable code.</p>
 
 <p>I am currently searching for my first software developer role.</p>
 
